@@ -23,8 +23,11 @@ Each following line will contain a number (1-8), which is the category number. T
 The first line in the input file will contain T the number of documents. T lines will follow each containing a series of space seperated words which represents the processed document. For example:
 
 3 
+
 This is a document 
+
 this is another document 
+
 documents are seperated by newlines
 
 
@@ -33,7 +36,9 @@ documents are seperated by newlines
 For each document output a number between 1-8 which you believe this document should be categorized as. For example:
 
 1 
+
 4 
+
 8
 
 ## My Work
