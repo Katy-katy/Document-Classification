@@ -6,7 +6,7 @@ Thus project was written as an programming exercise in text classification:
 https://www.hackerrank.com/challenges/document-classification
 
 
-I have been given a stack of documents that have already been processed and some that have not. My task is to classify these documents into one of eight categories: [1,2,3,…8].
+My task is to classify given documents into one of eight categories: [1,2,3,…8].
 
 ### Training Data
 
